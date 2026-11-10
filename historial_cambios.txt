@@ -1,0 +1,20 @@
+Eduardo Colon
+Ejercicios Extra de Git
+
+HISTORIAL DE CAMBIOS DEL REPOSITORIO
+
+1. Commit: Add JSON file handling lecture
+
+   Que cambio:
+   Se agrego el archivo PDF de la leccion sobre el manejo de archivos JSON en la carpeta Python Basics.
+
+   Por que se hizo el cambio:
+   Para incluir el material de estudio relacionado con la lectura  de archivos JSON.
+
+!b. Commit: Update README.md
+
+   Que cambio:
+   Se actualizo el archivo README.md del repositorio.
+
+   Por que se hizo el cambio:
+   Para actualizar la documentación y la información general del repositorio.
